@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aytekinet
 - 👀 I’m interested in web projects
-- 🌱 I’m currently learning Python, Next.js 
+- 🌱 I’m currently learning Python
 - 💞️ I'm looking to collaborate on internet initiatives.
 - 📫 How to reach me twitter.com/aayteekin
 
