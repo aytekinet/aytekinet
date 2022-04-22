@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aytekin</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aytekinet" alt="aytekinet" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aayteekin" target="blank"><img src="https://img.shields.io/twitter/follow/aayteekin?logo=twitter&style=for-the-badge" alt="aayteekin" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Django**
