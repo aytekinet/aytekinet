@@ -1,5 +1,3 @@
-# 💫About Me :
-🌱 I’m currently learning Python, Django
 📫 How to reach me https://twitter.com/aayteekin
 
 
